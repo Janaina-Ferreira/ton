@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+header > img{
+    width: 100%;
+    border-radius: 20px;
+}
