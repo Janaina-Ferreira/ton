@@ -33,3 +33,10 @@ h1{
 .plano-ton:hover{
     border: 1px solid #009420;
 }
+
+.ton-cel{
+    text-align: center;
+    background-color: #D5DEE8;
+    border-radius: 5px;
+    padding: 2px;
+}
