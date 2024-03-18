@@ -55,6 +55,10 @@ h2{
     text-align: center;
     border: 1px solid black;
 }
+ 
+.t1b{
+    width: 90%;
+}
 
 a{
     text-decoration: none;
