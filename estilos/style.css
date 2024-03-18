@@ -21,3 +21,13 @@ h1{
     background-color: #00CC2C;
     
 }
+
+.plano-ton{
+    border-radius: 15px;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.plano-ton:hover{
+    border: 1px solid #009420;
+}
