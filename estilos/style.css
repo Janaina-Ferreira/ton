@@ -58,15 +58,18 @@ h2{
 }
  
 .t1b{
-    width: 90%;
+    width: 80%;
 }
 
 button{
-    width: 50px;
-    border-radius: 20px;
     background-color: #009420;
+    width: 150px;
+    border-radius: 10px;
 }
 
+button:hover{
+    background-color: #00CC2C;
+}
 a{
     text-decoration: none;
 }
