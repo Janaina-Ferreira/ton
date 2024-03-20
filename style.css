@@ -1,0 +1,30 @@
+.slider {
+    position: relative;
+    width: 100%;
+    
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  .slides {
+    margin-top: 15px;
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .slide {
+    min-width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+  
+  input[type="radio"] {
+    display: none;
+  }
+  
+  
