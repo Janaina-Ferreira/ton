@@ -3,6 +3,8 @@
 body{
   margin: 0;
   overflow: y;
+  margin-right: 0;
+  margin-left: 0;
   
 }
 
@@ -14,6 +16,7 @@ body{
     margin: auto;
     font-size: 0.8em;
     padding: 2px;
+    
 }
 
 .slider {
