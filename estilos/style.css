@@ -1,8 +1,7 @@
 @charset "UTF-8";
 
 body{
-  margin: 0;
-  padding: 0;
+ 
   
 }
 
@@ -62,14 +61,12 @@ h1{
     text-align: center;
     border-radius: 5px;
     background-color: #00CC2C;
-    padding: 2px;
-    margin: 10px;
+   
     
 }
 
 .plano{
-    text-align: center;
-    margin: 5px;
+    
 }
 
 .plano-ton{
@@ -91,7 +88,7 @@ h1{
     border-radius: 5px;
     padding: 2px;
     margin-top: 25px;
-    margin: 10px;
+  
 }
 
 h2{
@@ -109,7 +106,7 @@ h2{
     text-align: center;
     font-size: 1.5em;
     font-weight: bolder;
-    margin: 10px;
+ 
    
 }
 
@@ -118,7 +115,7 @@ h2{
     border: 1px solid black;
     border-radius: 15px;
     box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.445);
-    margin: 10px;
+
 }
  
 .ton{
