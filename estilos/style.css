@@ -2,7 +2,7 @@
 
 body{
   margin: 0;
-  padding: auto;
+  
 }
 
 .cupom-ton{
@@ -12,6 +12,7 @@ body{
     color: black;
     margin: auto;
     font-size: 0.8em;
+    padding: 2px;
 }
 
 .slider {
