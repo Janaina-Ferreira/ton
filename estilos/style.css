@@ -18,9 +18,8 @@ body{
 .slider {
     position: relative;
     width: 100%;
-    
-    max-width: 1000px;
-    /*margin: auto;*/
+    max-width: 1200px;
+    margin: auto;
     overflow: hidden;
   }
   
