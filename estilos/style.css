@@ -17,7 +17,7 @@ margin: 0;
 .slider {
     position: relative;
     width: 100%;
-    max-width: 1200px;
+    max-width: 900px;
     margin: auto;
     overflow: hidden;
   }
@@ -86,8 +86,8 @@ h1{
     text-align: center;
     background-color: #D5DEE8;
     border-radius: 5px;
-    /*padding: 2px;
-    margin-top: 25px;*/
+    padding: 2px;
+    margin-top: 25px;
   
 }
 
