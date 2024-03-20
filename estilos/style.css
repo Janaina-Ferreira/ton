@@ -35,7 +35,7 @@ margin: 0;
   
   .slide img {
     width: 100%;
-    
+    height: auto;
   }
   
   input[type="radio"] {
@@ -47,7 +47,7 @@ header > img{
     align-items: center;
     width: 100%;
     border-radius: 20px;
-   margin: 15px;
+   
    
 }
 
