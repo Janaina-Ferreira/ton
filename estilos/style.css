@@ -92,3 +92,11 @@ a{
     color: black;
     text-decoration: none;
 }
+
+footer{
+    text-align: center;
+    background-color: #00CC2C;
+    margin-top: 40px;
+    padding: 10px;
+    
+}
