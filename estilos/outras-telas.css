@@ -1,2 +1,14 @@
 @charset "UTF-8";
 
+@media screen and (min-width: 250px) {
+
+
+
+    header > img{
+        align-items: center;
+        width: 60%;
+        border-radius: 20px; 
+          
+    }
+}
+    
