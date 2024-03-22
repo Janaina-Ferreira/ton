@@ -18,7 +18,7 @@
 
 
    .cupom-ton{
-    font-size: 1em;
+    font-size: 1.3em;
     padding: 5px;
 
     }
@@ -103,6 +103,15 @@
        
         display: block;
         width: 100%;
+    }
+
+    footer{
+        text-align: center;
+      
+        margin-top: 40px;
+        padding: 30px;
+        font-size: 1em;
+        
     }
 
  }
