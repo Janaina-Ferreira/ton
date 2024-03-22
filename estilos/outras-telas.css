@@ -81,6 +81,18 @@
         flex-wrap: wrap;
     }
 
+    .mega-ton{
+        
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .ton-basico{
+        
+        display: flex;
+        flex-wrap: wrap;
+    }
+
     .maquininha-ton{
         text-align: center;
         margin-left: 20px;
