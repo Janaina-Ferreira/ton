@@ -4,8 +4,8 @@
 
 
 
-    header > img{
-       
+    header>div{
+        align-items: center;
         width: 60%;
          
     }
