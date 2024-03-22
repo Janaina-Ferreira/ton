@@ -5,10 +5,22 @@
 
 
     header > img{
-        align-items: center;
+       
         width: 60%;
-        border-radius: 20px; 
-          
+         
+    }
+
+
+    h1{
+       
+        font-size: 2em;
+       
+    }
+
+    .planos-ton{
+      font-size: 1.6em;
+         
+        
     }
 }
     
