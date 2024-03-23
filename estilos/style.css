@@ -166,5 +166,7 @@ footer{
 }
 
 .stone{
-    
+    background-color: #006d18;
+    margin: 10px;
+    text-align: center;
 }
