@@ -114,10 +114,12 @@ h2{
 
 .desc{
     background-color: #00cc2c9d;
-    border-radius: 20px;
+    border-radius: 13px 13px 0px 0px;
     text-align: center;
     font-size: 1.5em;
     font-weight: bolder;
+    padding: 2px;
+    margin: auto;
  
    
 }
@@ -166,9 +168,10 @@ footer{
 }
 
 .stone{
-    background-color: #006d18;
-    margin: 10px;
+    background-color: #09d3359a;
+    margin-top: 50px;
     text-align: center;
+    border-radius: 10px;
 }
 
 .maquininha-ton{
