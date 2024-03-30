@@ -52,7 +52,9 @@ body{
   }
 
  
-  
+header{
+    background-color: #018F1F;
+}
 
 header > div > img{
     align-items: center;
